@@ -1,5 +1,5 @@
 {
-    "name": "jaeger/querylist-ext-multi",
+    "name": "jaeger/querylist-ext-login",
     "description": "QueryList扩展，Login模拟登陆扩展",
     "license" : "MIT",
     "authors": [
